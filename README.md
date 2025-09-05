@@ -9,7 +9,7 @@ Built using **HTML, CSS, and JavaScript**.
 
 
 ## 📸 Preview  
-![App Screenshot](screenshot.png)  
+![App Screenshot](https://github.com/kenithleon/circle-circumference-calculator/blob/11d67b0d3e7a26f58e3dfc58d00281be902d31fa/Screenshot%202025-09-05%20124845.png)  
  
 
 ## ✨ Features  
