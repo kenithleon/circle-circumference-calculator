@@ -1,0 +1,24 @@
+body{
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;
+    background-color: rgb(159, 206, 206);
+    text-align: center;
+}
+
+#mySubmit{
+
+    font-size: 2rem;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+#mySubmit:hover{
+    background-color: rgba(228, 252, 12, 0.089);
+    cursor: pointer;
+}
+
+#myText{
+    font-size: 2rem;
+    border-radius: 5px;
+    padding: 5px 10px;
+}   
